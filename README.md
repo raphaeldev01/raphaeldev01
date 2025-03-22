@@ -2,7 +2,7 @@
 
 ## Sobre mim
 <div aling="start">
-  - tenho 18 anos e estudo programação desde os 14! <br />
+  - Tenho 18 anos e estudo programação desde os 14! <br />
   - Atualmente atuo como freelancer FullStack. <br />
   - Cursando engenharia de software. <br />
   - Estou em busca de experiencia na area! <br />
