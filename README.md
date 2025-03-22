@@ -28,10 +28,9 @@
 </div>
   
 
+## Meu Progesso
+
 <div style="text-align: center;" align="center">
-
- <h3>* Meu Progresso *</h3>
-
   <div>
     <a href="https://github.com/raphaeldev01">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaeldev01&rank_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
