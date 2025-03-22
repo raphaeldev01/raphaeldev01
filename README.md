@@ -25,19 +25,24 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&ensp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&ensp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&ensp;
-
-  
 </div>
+  
 
-## Meu Progresso:
+<div style="text-align: center;" align="center">
+
+ <h3>* Meu Progresso *</h3>
 
   <div>
     <a href="https://github.com/raphaeldev01">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaeldev01&rank_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldev01&layout=compact&langs_count=8&theme=dark"/>
   </div>
-
+</div>
+      
   ##
-   ![Snake animation](https://github.com/raphaeldev01/raphaeldev01/blob/output/github-contribution-grid-snake.svg)
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphaeldev01/raphaeldev01/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raphaeldev01/raphaeldev01/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raphaeldev01/raphaeldev01/output/github-contribution-grid-snake.svg">
+</picture>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4F4F4F&height=65&section=footer"/>
