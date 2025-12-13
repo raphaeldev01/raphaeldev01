@@ -1,51 +1,55 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=header"/>
+## Olá, sou Raphael Medeiros! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4F4F4F&size=35&center=true&vCenter=true&width=1020&lines=Oláá,+Me+Chamo+Raphael+Medeiros+!!;Tenho+18+Anos;Atualmente+Moro+Em+Ribeirão+Preto,SP;Seja+Muitoo+Bem+Vindo++:%29)](https://git.io/typing-svg)
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+
+### 🚀 Sobre Mim
+
+Sou um desenvolvedor Fullstack apaixonado por criar soluções robustas e escaláveis, com foco em performance e experiência do usuário. Minha jornada na programação me permitiu transitar com fluidez entre o desenvolvimento de APIs complexas no backend e interfaces interativas no frontend. Acredito que a tecnologia é uma ferramenta poderosa para resolver problemas reais e estou sempre em busca de aprender e aplicar novas abordagens para entregar valor.
+
+Minha filosofia de desenvolvimento é pautada na escrita de código limpo, testável e de fácil manutenção, utilizando as melhores práticas e padrões de projeto. Tenho experiência em todo o ciclo de vida do desenvolvimento de software, desde a concepção e design até a implementação, deploy e manutenção.
+
+### 🛠️ Minhas Habilidades
+
+#### Backend
+*   **Node.js**: Desenvolvimento de APIs RESTful, microsserviços, com frameworks como Express.js e NestJS.
+*   **C# / .NET**: Construção de aplicações robustas e escaláveis utilizando .NET Core e ASP.NET Core.
+*   **TypeScript**: Aplicação de tipagem estática para maior segurança e manutenibilidade do código.
+
+#### Frontend
+*   **React.js**: Criação de interfaces de usuário dinâmicas e responsivas com React Hooks, Context API e NextJs.
+*   **HTML5 / CSS3**: Estruturação semântica e estilização moderna com pré-processadores como SASS/LESS e frameworks como Tailwind CSS ou Styled Components.
+*   **TypeScript**: Melhorando a qualidade e a experiência de desenvolvimento no frontend.
+
+#### Bancos de Dados
+*   **MongoDB**: Modelagem e gerenciamento de bancos de dados NoSQL para alta performance e escalabilidade.
+*   **Firebase**: Utilização de Firestore e Realtime Database para soluções em tempo real e autenticação.
+*   **SQL**: Experiência com bancos de dados relacionais como PostgreSQL e MySQL, incluindo design de schemas e otimização de queries.
+
+#### Ferramentas & Outros
+*   **Git**: Controle de versão e colaboração em equipes.
+*   **Docker**: Containerização de aplicações para ambientes de desenvolvimento e produção.
+*   **Metodologias Ágeis**: Scrum para gestão de projetos e entregas contínuas.
+
+### 📈 Estatísticas do GitHub
 
 
-## Sobre mim
-<div aling="start">
-  - Tenho 18 anos e estudo programação desde os 14! <br />
-  - Atualmente atuo como freelancer FullStack. <br />
-  - Cursando engenharia de software. <br />
-  - Estou em busca de experiencia na area! <br />
-  - ingles intermediário (aprimorando cada vez mais) <br />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldev01&layout=compact&theme=radical)](https://github.com/[seu-usuario-github])
 
-## Ferramentas e tecnologias 
+### ✉️ Conecte-se Comigo
 
-<div aling="center">
+Sinta-se à vontade para entrar em contato para discutir oportunidades, colaborações ou apenas para trocar ideias!
 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) &ensp;
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)&ensp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&ensp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&ensp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&ensp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&ensp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&ensp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&ensp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&ensp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&ensp;
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)&ensp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&ensp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&ensp;
-</div>
-  
-
-## Meu Progesso
-
-<div>
-  <div>
-    <a href="https://github.com/raphaeldev01">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raphaeldev01&rank_icon=github&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaeldev01&layout=compact&langs_count=8&theme=dark"/>
-  </div>
-</div>
-      
-  ##
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raphaeldev01/raphaeldev01/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raphaeldev01/raphaeldev01/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raphaeldev01/raphaeldev01/output/github-contribution-grid-snake.svg">
-</picture>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=65&section=footer"/>
+*   **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/raphael-medeiros2605)
+*   **Email**: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raphael.developer@hotmail.com)
+*   **Portfolio**: [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.raphaelmedeiros.online)
